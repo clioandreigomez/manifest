@@ -17,6 +17,5 @@
            sync-j="4" />
 
 <project path="kernel/samsung/s5" name="jfdsmabalot/kernel_samsung_s5" remote="github" revision="master" />
-<project path="kernel/htc/m8" name="kernelhackx/kernel_htc_m8" remote="github" revision="master" />
 
 </manifest>
