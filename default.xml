@@ -16,6 +16,6 @@
            sync-f="true"
            sync-j="4" />
 
-<project path="kernel/samsung/s5" name="jfdsmabalot/kernel_samsung_s5" remote="github" revision="master" />
+<project path="kernel/samsung" name="jfdsmabalot/kernel_samsung_s5" remote="github" revision="master" />
 
 </manifest>
